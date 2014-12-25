@@ -36,4 +36,11 @@ If this is your first pull request check out this resource on how to use [GitHub
 
 ### Code of Conduct
 
+All contributer, participants, and maintainers of this repo are required to agree with the following code of conduct. Maintainers will enforce this code. We are expecting coorporation from all participants to help ensuring a safe environment for everybody.
+
 tl;dr - Do not be a JERK.
+
+#### All of it
+
+Maintainers are dedicated to providing a harassment-free participation for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of any participants in any form. Sexual language and imagery is not appropriate for any avenue of participation, including issues, commit messages, and pull request. Repo participants violating these rules may be censored and probably will be blocked for further engagments in this repo.
+
