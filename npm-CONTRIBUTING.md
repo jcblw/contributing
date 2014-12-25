@@ -30,7 +30,7 @@ In the root directory of this project, and the going to your other project and r
 
 ### Submiting Pull Request
 
-You will need to publish your code to [Github](https://github.com) to make a pull request. You can do this by [forking](https://help.github.com/articles/fork-a-repo/) this repository ( There is a button in the right top corner on desktop ). Push you code to your forked repo to Github using `git push`. Now you can make a pull request.
+You will need to publish your code to [Github](https://github.com) to make a pull request. You can do this by [forking](https://help.github.com/articles/fork-a-repo/) this repository ( There is a button in the right top corner on desktop ). Push you code to your forked repo to Github using `git push`. Now you can make a pull request and by making a pull request you must agree to the repos code of conduct. V
 
 If this is your first pull request check out this resource on how to use [GitHub pull requests](https://help.github.com/articles/using-pull-requests).
 
@@ -43,4 +43,3 @@ tl;dr - Do not be a JERK.
 #### All of it
 
 Maintainers are dedicated to providing a harassment-free participation for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of any participants in any form. Sexual language and imagery is not appropriate for any avenue of participation, including issues, commit messages, and pull request. Repo participants violating these rules may be censored and probably will be blocked for further engagments in this repo.
-
