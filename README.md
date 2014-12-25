@@ -6,3 +6,8 @@ Having contibutions and contributing to other repos is why Github and code shari
 
 - [thoughtbot/factory_girl_rails](https://github.com/thoughtbot/factory_girl_rails/blob/master/CONTRIBUTING.md)
 - [jden/CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md/blob/master/CONTRIBUTING.md)
+- [iojs/io.js](https://github.com/iojs/io.js/blob/master/CONTRIBUTING.md)
+
+### Code of conduct
+
+- [CascadiaJS](http://2014.cascadiajs.com/code-of-conduct.html)
